@@ -1,0 +1,6 @@
+opencv-python>=4.9.0     # Dùng bản mới nhất tương thích numpy 2.x
+dlib                     # Dùng prebuilt wheel: pip install https://github.com/z-mahmud22/Dlib_Windows_Python3.x/raw/main/dlib-20.0.99-cp314-cp314-win_amd64.whl
+scipy
+imutils
+numpy
+pygame-ce                # pygame-ce thay thế pygame trên Python 3.14+
